@@ -1,0 +1,60 @@
+// anime
+//smotret-anime.org
+b-cdn.net
+//big-sushi-rise.ru
+//quantum-phantom-moon.ru
+
+// torrserver
+lampa.mx
+yourok.ru
+torrs.ru
+jacred.xyz
+jacred.pro
+tmdb.org
+themoviedb.org
+imagetmdb.com
+cub.red
+
+// github
+// https://github.com/v2fly/domain-list-community/blob/master/data/github
+atom.io
+dependabot.com
+gh.io
+ghcr.io
+git.io
+github.ai
+github.blog
+github.com
+github.community
+github.dev
+github.io
+githubapp.com
+githubassets.com
+githubhackathon.com
+githubnext.com
+githubpreview.dev
+githubstatus.com
+githubuniverse.com
+githubusercontent.com
+myoctocat.com
+octocaptcha.com
+opensource.guide
+repo.new
+thegithubshop.com
+
+// openwrt
+// https://github.com/v2fly/domain-list-community/blob/master/data/openwrt
+openwrt.org
+lede-project.org
+
+// other
+podkop.net
+l1l-frp.com
+
+// nemish
+backloggd.com
+// https://github.com/v2fly/domain-list-community/blob/master/data/mailcom
+mail.com
+ui-portal.de
+uicdn.com
+uimserv.net
