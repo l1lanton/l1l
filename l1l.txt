@@ -4,6 +4,11 @@ b-cdn.net
 //big-sushi-rise.ru
 //quantum-phantom-moon.ru
 
+// manga
+manga-chan.me
+mangadex.network
+mangadex.org
+
 // torrserver
 lampa.mx
 yourok.ru
@@ -49,7 +54,6 @@ lede-project.org
 
 // other
 podkop.net
-l1l-frp.com
 
 // nemish
 backloggd.com
