@@ -47,6 +47,10 @@ opensource.guide
 repo.new
 thegithubshop.com
 
+// github-copilot
+// https://github.com/v2fly/domain-list-community/blob/master/data/github-copilot
+githubcopilot.com
+
 // openwrt
 // https://github.com/v2fly/domain-list-community/blob/master/data/openwrt
 openwrt.org
