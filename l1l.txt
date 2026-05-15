@@ -61,6 +61,8 @@ podkop.net
 
 // nemish
 backloggd.com
+tunefind.com
+tf-cdn.com
 // https://github.com/v2fly/domain-list-community/blob/master/data/mailcom
 mail.com
 ui-portal.de
