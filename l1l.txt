@@ -76,3 +76,20 @@ uimserv.net
 dailymotion.com
 dm-event.net
 dmcdn.net
+
+// https://github.com/v2fly/domain-list-community/blob/master/data/steam
+playartifact.com
+s.team
+steam.tv
+steam-api.com
+steam-chat.com
+steamcommunity.com
+steamcontent.com
+steamdeck.com
+steamgames.com
+steampowered.com
+steamserver.net
+steamstatic.com
+steamusercontent.com
+underlords.com
+valvesoftware.com
