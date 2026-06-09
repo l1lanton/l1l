@@ -64,6 +64,7 @@ mmcdn.com
 podkop.net
 
 // nemish
+dtf.ru
 backloggd.com
 tunefind.com
 tf-cdn.com
