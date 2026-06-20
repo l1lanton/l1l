@@ -62,7 +62,6 @@ mmcdn.com
 
 // other
 podkop.net
-l1l-ll.nya.pub
 
 // nemish
 dtf.ru
