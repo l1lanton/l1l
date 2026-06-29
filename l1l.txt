@@ -10,9 +10,18 @@ mangadex.network
 mangadex.org
 
 // ai
+// perplexity
 perplexity.ai
 perplexity.com
 pplx.ai
+// claude
+anthropic.com
+clau.de
+claude.ai
+claude.com
+claudemcpclient.com
+claudemcpcontent.com
+claudeusercontent.com
 
 // torrserver
 lampa.mx
