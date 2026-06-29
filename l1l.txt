@@ -22,6 +22,8 @@ claude.com
 claudemcpclient.com
 claudemcpcontent.com
 claudeusercontent.com
+// deepseek
+deepseek.com
 
 // torrserver
 lampa.mx
