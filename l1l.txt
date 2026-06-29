@@ -9,6 +9,11 @@ manga-chan.me
 mangadex.network
 mangadex.org
 
+// ai
+perplexity.ai
+perplexity.com
+pplx.ai
+
 // torrserver
 lampa.mx
 yourok.ru
