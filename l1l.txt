@@ -31,7 +31,6 @@ torrs.ru
 jacred.xyz
 jacred.pro
 imagetmdb.com
-cub.red
 
 // github
 // https://github.com/v2fly/domain-list-community/blob/master/data/github
