@@ -26,6 +26,7 @@ claudeusercontent.com
 deepseek.com
 
 // torrserver
+jacred.stream
 lampa.mx
 yourok.ru
 torrs.ru
