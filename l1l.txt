@@ -6,7 +6,6 @@ b-cdn.net
 
 // manga
 mangadex.network
-mangadex.org
 
 // ai
 // perplexity
