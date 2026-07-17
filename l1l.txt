@@ -9,10 +9,12 @@ mangadex.network
 
 // ai
 // perplexity
+// https://github.com/v2fly/domain-list-community/blob/master/data/perplexity
 perplexity.ai
 perplexity.com
 pplx.ai
 // claude
+// https://github.com/v2fly/domain-list-community/blob/master/data/anthropic
 anthropic.com
 clau.de
 claude.ai
@@ -21,6 +23,7 @@ claudemcpclient.com
 claudemcpcontent.com
 claudeusercontent.com
 // deepseek
+// https://github.com/v2fly/domain-list-community/blob/master/data/deepseek
 deepseek.com
 
 // torrserver
