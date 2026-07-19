@@ -73,6 +73,13 @@ githubcopilot.com
 openwrt.org
 lede-project.org
 
+// docker
+// https://github.com/v2fly/domain-list-community/blob/master/data/docker
+compose-spec.io
+docker.com
+docker.io
+dockerstatic.com
+
 // other
 podkop.net
 
