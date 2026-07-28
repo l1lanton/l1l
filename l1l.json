@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "b-cdn.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mangadex.network"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "perplexity.ai",
+        "perplexity.com",
+        "pplx.ai",
+        "anthropic.com",
+        "clau.de",
+        "claude.ai",
+        "claude.com",
+        "claudemcpclient.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com",
+        "deepseek.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "jacred.stream",
+        "lampa.mx",
+        "yourok.ru",
+        "torrs.ru",
+        "jacred.xyz",
+        "jacred.pro",
+        "imagetmdb.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "atom.io",
+        "dependabot.com",
+        "gh.io",
+        "ghcr.io",
+        "ghe.com",
+        "git.io",
+        "github.ai",
+        "github.blog",
+        "github.career",
+        "github.com",
+        "github.community",
+        "github.dev",
+        "github.io",
+        "githubapp.com",
+        "githubassets.com",
+        "githubhackathon.com",
+        "githubnext.com",
+        "githubpreview.dev",
+        "githubstatus.com",
+        "githubsupport.com",
+        "githubuniverse.com",
+        "githubusercontent.com",
+        "myoctocat.com",
+        "octocaptcha.com",
+        "opensource.guide",
+        "repo.new",
+        "thegithubshop.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "githubcopilot.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "openwrt.org",
+        "lede-project.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "compose-spec.io",
+        "docker.com",
+        "docker.io",
+        "dockerstatic.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "podkop.net",
+        "dtf.ru",
+        "backloggd.com",
+        "tunefind.com",
+        "tf-cdn.com",
+        "mail.com",
+        "ui-portal.de",
+        "uicdn.com",
+        "uimserv.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dailymotion.com",
+        "dm-event.net",
+        "dmcdn.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "playartifact.com",
+        "s.team",
+        "steam.tv",
+        "steam-api.com",
+        "steam-chat.com",
+        "steamcommunity.com",
+        "steamcontent.com",
+        "steamconnecttest.com",
+        "steamdeck.com",
+        "steamgames.com",
+        "steampowered.com",
+        "steamserver.net",
+        "steamstatic.com",
+        "steamusercontent.com",
+        "underlords.com",
+        "valve.net",
+        "valvesoftware.com"
+      ]
+    }
+  ]
+}
