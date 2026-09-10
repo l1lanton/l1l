@@ -25,6 +25,7 @@ claudeusercontent.com
 // deepseek
 // https://github.com/v2fly/domain-list-community/blob/master/data/deepseek
 deepseek.com
+deepseeksvc.com
 
 // torrserver
 jacred.stream
