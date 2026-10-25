@@ -111,6 +111,13 @@ dailymotion.com
 dm-event.net
 dmcdn.net
 
+// sanya
+olx.kz
+olxcdn.com
+olx-st.com
+olx.org
+olxgroup.com
+
 // https://github.com/v2fly/domain-list-community/blob/master/data/steam
 playartifact.com
 s.team
