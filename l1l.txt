@@ -7,6 +7,9 @@ b-cdn.net
 // manga
 mangadex.network
 
+// porno
+highwebmedia.com
+
 // ai
 // perplexity
 // https://github.com/v2fly/domain-list-community/blob/master/data/perplexity
