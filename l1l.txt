@@ -10,6 +10,7 @@ mangadex.network
 // porno
 highwebmedia.com
 trafficjunky.com
+bkcdn.net
 
 // ai
 // perplexity
