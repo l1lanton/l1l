@@ -9,6 +9,7 @@ mangadex.network
 
 // porno
 highwebmedia.com
+trafficjunky.com
 
 // ai
 // perplexity
