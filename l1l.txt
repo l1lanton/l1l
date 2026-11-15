@@ -37,6 +37,10 @@ claudemcpcontent.com
 claudepages.dev
 claudestudio.com
 claudeusercontent.com
+
+datadoghq.com
+sentry.io
+
 // deepseek
 // https://github.com/v2fly/domain-list-community/blob/master/data/deepseek
 deepseek.com
