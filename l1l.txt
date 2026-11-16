@@ -48,7 +48,7 @@ deepseeksvc.com
 
 // torrserver
 jacred.stream
-lampa.mx
+// lampa.mx
 yourok.ru
 torrs.ru
 jacred.xyz
